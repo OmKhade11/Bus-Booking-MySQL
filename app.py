@@ -9,7 +9,7 @@ app.secret_key = "supersecretkey"
 # --- Database configuration ---
 config = {
     'user': 'root',
-    'password': 'sanket9899',  
+    'password': 'xyz',  # Change your passaword 
     'host': '127.0.0.1',
     'database': 'bus_project', # Changed from railway_db
     'autocommit': False 
@@ -132,4 +132,5 @@ def handle_booking():
 
 # --- Run the App ---
 if __name__ == '__main__':
+
     app.run(debug=True)
