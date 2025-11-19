@@ -24,7 +24,7 @@ It implements **ACID properties** using MySQL transactions and row-locking (`SEL
 
 * **Backend:** Python, Flask
 * **Database:** MySQL (using `mysql-connector-python`)
-* **Frontend:** HTML5, CSS3, Jinja2 Templating
+* **Frontend:** HTML5, CSS
 * **Tools:** VS Code, MySQL Workbench
 
 ---
