@@ -34,10 +34,7 @@ It implements **ACID properties** using MySQL transactions and row-locking (`SEL
 ```text
 Flask-Bus-Booking-System/
 │
-├── static/                 # CSS, Images, JS files (optional)
 ├── templates/
 │   └── index.html          # Main booking form UI
 ├── app.py                  # Main Flask application logic
-├── db_schema.sql           # SQL script to setup the database
-├── requirements.txt        # List of python dependencies
 └── README.md               # Project documentation
